@@ -1,2 +1,4 @@
 # computervision
-YOLO8 in action
+YOLOv8 in action
+
+We use YOLOv to detect objects on image
